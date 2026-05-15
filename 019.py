@@ -227,7 +227,7 @@ digit=0
 space=0
 special=0
 i=0
-if len(password)>=8:
+if len(password)>=8 and len(password)<=15:
     while i<len(password):
         ch=password[i]
         if ch.isupper():
@@ -259,7 +259,7 @@ lower=0
 digit=0
 space=0
 special=0
-if len(password)>=8:
+if len(password)>=8 and len(password)<=15:
     for ch in password:
         if ch>='A' and ch<='Z':
             upper=1
