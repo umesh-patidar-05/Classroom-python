@@ -42,7 +42,7 @@ print(l)          #['deepika', 4, 'deepika', 4, 'deepika', 4, 'deepika', 4, 'dee
 
 
 '''
-l=list(range(1,6))
+l=list(range(1,6)) 
 print(l)                 #[1, 2, 3, 4, 5]
 '''
 
