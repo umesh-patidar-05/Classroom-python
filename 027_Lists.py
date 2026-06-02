@@ -148,9 +148,7 @@ arr=[]
 print("Enter elements one by one")
 for i in range(n):
     arr.append(int(input()))
-print(arr)
-
-
+print(arr) 
 last=arr[n-1]
 i=n-1
 while i>0:
