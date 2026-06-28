@@ -291,42 +291,6 @@ sum()    #0
 
 
 
-'''
-def main():
-    a=int(input("Enter first number: "))
-    b=int(input("Ente second number: "))
-    
-    def sum(a,b):
-        c=a+b
-        print(c)
-        
-    def sub(a,b):
-        c=a-b 
-        print(c)
-
-    def mul(a,b):
-        c=a*b 
-        print(c)        
-
-    while True:
-        choice=int(input("Enter first number: "))
-        match choice:
-            case 1:
-                sum(a,b)
-                
-            case 2:
-                sub(a,b)
-              
-            case 3:
-                mul(a,b)     
-            case _:
-                break                               
-main()                
-'''
-
-
-
-
 
 
 '''
