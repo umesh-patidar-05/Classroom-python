@@ -291,8 +291,6 @@ sum()    #0
 
 
 
-
-
 '''
 def main():
     a=int(input("Enter first number: "))
