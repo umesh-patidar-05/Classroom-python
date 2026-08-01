@@ -1,0 +1,10 @@
+2026-08-01 10:00:01 INFO    Application started
+2026-08-01 10:00:05 INFO    User login successful
+2026-08-01 10:01:10 WARNING Low disk space
+2026-08-01 10:01:45 INFO    Loading configuration
+2026-08-01 10:02:20 ERROR   Database connection failed
+2026-08-01 10:03:00 INFO    Retrying database connection
+2026-08-01 10:03:15 WARNING Network response is slow
+2026-08-01 10:04:10 INFO    Database connected successfully
+2026-08-01 10:05:25 ERROR   Failed to save user profile
+2026-08-01 10:06:00 INFO    Application closed
