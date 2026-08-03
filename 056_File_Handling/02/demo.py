@@ -227,3 +227,7 @@ try:
 
 except FileNotFoundError:
     print("file not found ")        
+
+# Highest marks  88
+# Average  75.75
+# Toppe name  umesh    
